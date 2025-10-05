@@ -70,7 +70,7 @@ These all things are done in this SQL script:
 
 ## Deliverables  
 - [SQL Script for Data Cleaning and Analysis](./script/data_cleaning_and_analysis.sql)  
-- [Tableau Dashboard](./dashboard/ecommerce_sales_dashboard.twbx)  
+- [Tableau Dashboard](./dashboard/ecommerce_sales_dashboard.twb)  
 - [Executive Presentation (PowerPoint)](./deliverables/Ecommerce_Analysis_Presentation.pptx)   
 - [Key Insights Summary](./deliverables/Key_Insights_Report.pdf)  
 
