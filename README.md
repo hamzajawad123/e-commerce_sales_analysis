@@ -30,7 +30,10 @@ The project uses multiple datasets including:
 - Sellers Dataset  
 - Product Category Translation Dataset  
 
-> Note: Datasets are loaded into MySQL using `LOAD DATA` commands.  
+> Note: Datasets are uploaded on kaggle due to size problem on github.
+
+You can access them from below link:
+[Datasets](https://www.kaggle.com/work/datasets)
 
 ---
 
