@@ -32,7 +32,7 @@ The project uses multiple datasets including:
 
 > Note: Datasets are uploaded on kaggle due to size problem on github.
 
-You can access them from below link:
+You can access these datasets from this link:
 [Datasets](https://www.kaggle.com/work/datasets)
 
 ---
@@ -45,7 +45,10 @@ The project follows a structured data analysis workflow:
 3. **Data Cleaning** – Handle null values, remove duplicates, standardize text, correct anomalies, and ensure referential integrity.  
 4. **Data Analysis** – Use SQL queries to extract actionable insights.  
 5. **Data Visualization** – Create dashboards in Tableau to present findings.  
-6. **Reporting** – Build executive-level presentations in PowerPoint.  
+6. **Reporting** – Build executive-level presentations in PowerPoint.
+
+These all things are done in this SQL script:
+[SQL Script for Data Cleaning and Analysis](./script/data_cleaning_and_analysis.sql)
 
 ---
 
@@ -66,10 +69,9 @@ The project follows a structured data analysis workflow:
 ---
 
 ## Deliverables  
-- [SQL Scripts for Database Setup and Cleaning](./scripts/data_cleaning.sql)  
-- [SQL Queries for Data Analysis](./scripts/data_analysis.sql)  
-- [Tableau Dashboard](./dashboard/ecommerce_dashboard.twbx)  
-- [Executive Presentation (PowerPoint)](./deliverables/Ecommerce_Analysis_Presentation.pptx)  
+- [SQL Script for Data Cleaning and Analysis](./script/data_cleaning_and_analysis.sql)  
+- [Tableau Dashboard](./dashboard/ecommerce_sales_dashboard.twbx)  
+- [Executive Presentation (PowerPoint)](./deliverables/Ecommerce_Analysis_Presentation.pptx)   
 - [Key Insights Summary](./deliverables/Key_Insights_Report.pdf)  
 
 ---
